@@ -1,0 +1,26 @@
+{
+  "name": "Sally Armstrong",
+  "age": 32,
+  "address": {
+    "street": "Ohocuf Mill",
+    "city": "Ojaoholoc",
+    "state": "IA",
+    "zip": "21085"
+  },
+  "contact": {
+    "phone": "(967) 878-9603",
+    "servicePhone": "800925398"
+  },
+  "birthday": "1977-06-22T21:10:18.719Z",
+  "ip": "35.81.230.229",
+  "foo": "bar",
+  "profile": {
+    "about": "Awapun vef bofekhah vaezu hocohin zuhif cuti vez ikegeak saafabu wokpav ihaga ovhet gal mil. Hat ehi umu lomtidat otnu opeke bi zera tud ubuticjup ruzmu otzok. Moom cuzetouf egipomho hamdi inza fok ovmadop jirako lipboro anato ofepa ga zejoawa acionacu. Kurtagot em me ro ci ivicfe opi evsi judad ja pakhoapu umodu cophuj jetor coz bodcurvew minvedaz jenno. Eh ezituk huhuf lombo naje ivudomloj mumwokhav anubulo wokitfid watci heswo gobisoz ho cewafi wegtuhuw cor. Wocma keise dapsi cuzifgar le fahob holwani ki ji dipene modlowhi kevsuj zozaje sud ni pajoca pedvod.",
+    "bio": "Po tov ali kifcet fuhpe alrum wiz cihfovum nuon jis cohep geb. Levvomo bak ferdob umubij ijicu vume ur ibuola ku eha tukdo dismivi bibirmud ze. Ulij owebucke vumap fupho durhez eputurves aribapis lihvup mit dot woreja hukigi guhibuuh ji sifadiri fec."
+  },
+  "apiKey": "832b80d347757c9f4ab67d242f4ef5d9a2df24a8f79b9f4f1c88a2f3e0d9ca03",
+  "currency": {
+    "code": "GBP",
+    "name": "United Kingdom Pound"
+  }
+}
