@@ -1,0 +1,26 @@
+{
+  "name": "Brett Henry",
+  "age": 49,
+  "address": {
+    "street": "Jebga Mill",
+    "city": "Luzazze",
+    "state": "IA",
+    "zip": "54795"
+  },
+  "contact": {
+    "phone": "(416) 723-7464",
+    "servicePhone": "800747337"
+  },
+  "birthday": "1979-06-14T22:41:56.762Z",
+  "ip": "31.17.145.197",
+  "foo": "bar",
+  "profile": {
+    "about": "Uzapipsev epekikuh ocsez bi pod niluwvi orepo fasim wenorju gof tem fed tonujin hiekeboj fufuw poaj. Ranic jazuapu kal lib ozokobeja se buucasip cihiwju kug zo let lo. Ek was punnirseb hutjeake suler tidec wasigap rekges am nitul po viji uragishum huruj ub nekfa. Depekguz tup wisognar ot jozza eme bizokit don emenu pobo jugva iveve sa ecabo ameva vulim dacdi.",
+    "bio": "Sekajic bajunses gu ki cogu lab ut notihde zu ri cizmobi ti. Urujobso bildeel pu ifuragov sevol zekesih oznaf wow imogu vokoposab fuceksul vaaj lozas. Tupfak kelig awazospo zojeb bisiehi gawcik gijipum pat hodak nahovmi weroige ler cepusceb ilvum unsim."
+  },
+  "apiKey": "e0c6decc340acb8fd2c765bb0d0164e0ac5822593f6cb9457b0c62ed13cd2a0a",
+  "currency": {
+    "code": "SYP",
+    "name": "Syria Pound"
+  }
+}
