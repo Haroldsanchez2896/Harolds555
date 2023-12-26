@@ -1,0 +1,26 @@
+{
+  "name": "Edith Lawson",
+  "age": 22,
+  "address": {
+    "street": "Tegu Road",
+    "city": "Vopnori",
+    "state": "LA",
+    "zip": "75101"
+  },
+  "contact": {
+    "phone": "(773) 605-1178",
+    "servicePhone": "800116915"
+  },
+  "birthday": "2001-06-01T07:45:18.263Z",
+  "ip": "21.208.4.155",
+  "foo": "bar",
+  "profile": {
+    "about": "Ulniha cogukfer ka ho lokiin vogcih hig nealzik igiga he izbatro eharma rizsor refeliov ep jobpe urevek. Geko bodineuj fohe roggap nevwobeho bu esuzamcul ez to wu ik dusab juvefide bobavif kinhanpe. Uzevic cazaret pucehiti paj kogogpod rozlet zelegi wot linol ika suk ehu. Wu oluojidu higowsal zed oska so mewemwoj ipanazgo gih zu genid hij ga.",
+    "bio": "To sudbu ectem rike satihup dow wibuj rodunah fo jip em galizor me fabtinmi dolci bekasgo bi. Mujil aki izgettes uruzah dohevid geriwoh kaawzob hicat besfedos maba mic zi. Vul paid uji tove vewinko raasoep duzci ti lidarepi wirehofu adzefva am ze komba ezoija misrobeb."
+  },
+  "apiKey": "acd21c1d510b60833d2f53c548386a77322c0f37d7ebcf6063ec10057fb49071",
+  "currency": {
+    "code": "GTQ",
+    "name": "Guatemala Quetzal"
+  }
+}
