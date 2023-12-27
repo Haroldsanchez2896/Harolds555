@@ -1,0 +1,26 @@
+{
+  "name": "Ophelia Cole",
+  "age": 47,
+  "address": {
+    "street": "Nosur Path",
+    "city": "Ecusuaju",
+    "state": "GA",
+    "zip": "29226"
+  },
+  "contact": {
+    "phone": "(356) 863-8675",
+    "servicePhone": "800874491"
+  },
+  "birthday": "1999-05-19T20:27:59.442Z",
+  "ip": "98.222.180.90",
+  "foo": "bar",
+  "profile": {
+    "about": "Saeba wun tewuuz zabpo cedcuf dipoj za kaheto vudwooko ipzojtec giji wifbawuv zinbo gemotu. Efoje ikiwelgoc hopli rogin tosne mop pez ji poubhim baddeudo ku jim zufarejur hafmevcub sagnaabu ozto camoha. Evocebhig za kaagi ti fela gibrotlok minumbaf comafnib wu gitopaje maguj pezesa udaguwon jiko unuzis jomvikeg weicaroz ciktu. Cawop sugop koivu tom sodwiz muodubu ca kikoliv wo kumge ak ucatoji gegec.",
+    "bio": "Dujfomad rihaf taf ge sivgos bo zo apwawomo im raz nes jal pozzuk rec nudvaba tupha ve. Veriv forwuab fe opjamov cafij ve ho hep cuwomka morheh veamir pi teveno. Hizsutse me inbe tuce womo sisabvon lohvukja iltu ce jonesfo odaciufe izacot si. Ena atfemo joje piffu rejiuw sati vipetu derapzoc atizakum li nujjefot icerno ev. Lufanpo rubour za vaf kijfovrem awcuhfu kug suwe aki gub fup mabidobuh jib fib."
+  },
+  "apiKey": "b8f63e4975f57e5e44d1277de4e6443b5ddaddce22bed1a581e9121c8c471537",
+  "currency": {
+    "code": "GGP",
+    "name": "Guernsey Pound"
+  }
+}
