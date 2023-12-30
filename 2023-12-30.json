@@ -1,0 +1,26 @@
+{
+  "name": "Lizzie Bennett",
+  "age": 44,
+  "address": {
+    "street": "Tifa Circle",
+    "city": "Hejinedo",
+    "state": "AL",
+    "zip": "67218"
+  },
+  "contact": {
+    "phone": "(686) 771-9752",
+    "servicePhone": "800362461"
+  },
+  "birthday": "1973-12-05T10:52:49.574Z",
+  "ip": "58.61.65.134",
+  "foo": "bar",
+  "profile": {
+    "about": "Hojutoku ekun azjewu putupe uwocudip gaja ocemoop sebfefsi pamozbo guzo iviboka ze ehukotdoj hi voj pi lasikac. Uberursim ale ga cinu iva fizeisa jejuj ana torrekaz ufeme le om. Awli wimelaven jesipa coti tensud idos aha ba nibi hotonepi kiczuf miomapu lal neovakun kivzu vo nele po.",
+    "bio": "Gowoki zunkac jetkasul wocace agtigkup nas ipobojca se onumi mo rahottud rilrejul wi iloopa felkeco. Hobi bemigse hawku nin el he ashani egetajin ze igu senu iv fuhuzu nul bawag ke ijacobuv. Lowepci zidi sa zofoli ebave te jofa napi pevpatus wodonub ajimud tujoplim lep sehceg siwhogik."
+  },
+  "apiKey": "108b834504c5280ca09ad3130036660ce719ae1d017a7ae1e700d4e9ae9640c9",
+  "currency": {
+    "code": "COP",
+    "name": "Colombia Peso"
+  }
+}
