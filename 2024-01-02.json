@@ -1,0 +1,26 @@
+{
+  "name": "Louise Smith",
+  "age": 55,
+  "address": {
+    "street": "Zuhob Square",
+    "city": "Kodmunih",
+    "state": "VA",
+    "zip": "86021"
+  },
+  "contact": {
+    "phone": "(472) 592-2277",
+    "servicePhone": "800742415"
+  },
+  "birthday": "1983-09-29T22:54:08.565Z",
+  "ip": "31.127.126.140",
+  "foo": "bar",
+  "profile": {
+    "about": "Cesodhuj juj zo uf re tibol irhubli wicsiso kulzu gibhefvo pokwulag wukoviri mo mibcapi za bamivrur. Il iwe id hi tohop lagijzeb ewurosbos diwosoup wub fi har epaji wefepbe tukfo. Fubaul ba be uj horet zupaf urzih lacfiuwe japogov burzadpa uzifa ululug aho gop. Uk etufafu fijvi bik si eru siga fazzesa nani vuzsurah go gikuvpuv.",
+    "bio": "Da umuop tumtez ca zuhuh piduh malci tulina onuat ofujadap nelwid ciliwot nafu ven ti. Ecze sipvevreh wusegula sohevoz pa pe hi bahi ciamuzu tewbo upurocha pomlojo pe. Hotas onic woj iho vocegkeb ter bevok ma ceckebjeb hewovasil vosoibe ummu."
+  },
+  "apiKey": "8eb3161a186e78af08d48163eeeae3c3e5f3ca3d5b61ab52233620c50007d390",
+  "currency": {
+    "code": "WST",
+    "name": "Samoa Tala"
+  }
+}
