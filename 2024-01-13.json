@@ -1,0 +1,26 @@
+{
+  "name": "Connor May",
+  "age": 22,
+  "address": {
+    "street": "Ohvej Point",
+    "city": "Bujiga",
+    "state": "ID",
+    "zip": "81844"
+  },
+  "contact": {
+    "phone": "(801) 610-8165",
+    "servicePhone": "800493661"
+  },
+  "birthday": "1974-03-05T07:36:01.958Z",
+  "ip": "204.36.241.124",
+  "foo": "bar",
+  "profile": {
+    "about": "Ba ge ul hiesi ok ku fambeh liwjo nak diri lar naan sewihguw. Umiram ke dimcol gom det sufeja juiba onu pohve ku pusne urivo ipasas lifosuv epu. Wic alo hugid jud nedaz zuud wiciovu upi gawil wusulocuf bos geenol gaztewges oziduz wicil jovuz. Ce fug mabviki kozjojzag pufvew si cuvar sot tolunube minse ra dobinbaw tap nevkeba naf.",
+    "bio": "Pil wuglopru ger fe go dijipom we he woruhi kal ahe seija vu pecnehje dojewwe mevufec. Wuajujug ofo civtirle uziahiuca cofedgi rag ko mizih uvoleti kijen ho efne damba. Boupalo niffu bac vihupil jeti dunuve ruver visura nojiuzi vuwocom ati kohsis raihu fo so cuw tekefaga abju."
+  },
+  "apiKey": "fa75918bc55c2472d5eef1643b93792cfb383ea3f822dac69c29c14462079ea7",
+  "currency": {
+    "code": "BOB",
+    "name": "Bolivia Boliviano"
+  }
+}
