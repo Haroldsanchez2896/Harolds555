@@ -1,0 +1,26 @@
+{
+  "name": "Jackson Hernandez",
+  "age": 23,
+  "address": {
+    "street": "Roriv Road",
+    "city": "Mawjuuho",
+    "state": "AR",
+    "zip": "07889"
+  },
+  "contact": {
+    "phone": "(532) 346-6131",
+    "servicePhone": "800364624"
+  },
+  "birthday": "1969-05-23T10:48:56.289Z",
+  "ip": "171.62.203.166",
+  "foo": "bar",
+  "profile": {
+    "about": "Vefrontim guete zimep efsi kikotig suk kuc fucah we mezag furse dupojit mef pawom. Mi menregni akebecir wi kiz ujaun huccaoro pa lin zoejize gij jasdi. Ehiz ducane baic hurebru cubew fofa kodahdis gadvoj hep epolip mogi siof nozzozguv usivu.",
+    "bio": "Vuhossek loh virni ifuzik bu uvravem voah tewzouve fecisaki bujuro kece kuugo ratcecap lom. Deddino vipaj ge nopoeti deh avutadga zereh am di runvuku jupubzu visal. Ebemo ospifa kahogi ruek rikmo il nu sodisep obobaso baura seksefob ivca maulosac witvonci zasjupu sevafwi afa cuz. Dokowe midet ugparzo didarni we kajzihni dorafe odsosem icojodam genmehmag icmom tivaki addog sijacok va jo raz kiwame."
+  },
+  "apiKey": "7f3a8aec0166975c6d84dd33e6cc40d6f33ed6831a2db9f69ba47b1b67a05898",
+  "currency": {
+    "code": "GEL",
+    "name": "Georgia Lari"
+  }
+}
