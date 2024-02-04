@@ -1,0 +1,26 @@
+{
+  "name": "Susan Campbell",
+  "age": 36,
+  "address": {
+    "street": "Egulo Manor",
+    "city": "Vosehfin",
+    "state": "WV",
+    "zip": "34973"
+  },
+  "contact": {
+    "phone": "(959) 746-1558",
+    "servicePhone": "800546794"
+  },
+  "birthday": "2002-06-26T10:13:46.284Z",
+  "ip": "122.222.106.193",
+  "foo": "bar",
+  "profile": {
+    "about": "Har gevriklom noriprik gufik ponwifeda nujolwun vicdo bat loiwa vivod ihoni zinedco. We fotiobo nilim latka awibba su uzigov pas ogkor ow ep goleksot ewfujzeb. Ku kes let dizharef ziccavza abogo ag ku ikemumi soc jurjega kudezec ivcakje rodisib tekrome lovhin pa.",
+    "bio": "Lednis eze tijonja nuf vufez segzenra kupbiof niwvugih lavigje nide voowkec beded ocemashob veswuad cuwgej guz be. Hu mel bagcubas membivun unteg nohutemi vupbufrar vekli la jifguop ju du jit alohah rojhute wun. Nekrewfiz ozonojsog jo irihe ge ivabiul fe ik ladi huzluwo talokon hurfeg garnerako ownowo. Vukwu rav joza kuf giji beudfic gecsagupu zecesa tik rootavo iza paf ta dilam atjomra kowgoz zij. Talukufo utno doszubke bud fefag ba tap ceocjoh kujzo togsofi arasu liserumip erer finabu usugobag jasep munderan. Hesvati jatoaf sevel run upi utu coshumni hutjigiv fus vozouzu uve nejuzjen fo harof fidpiwut."
+  },
+  "apiKey": "3aebcbf1a990e54b9903646e9217551e503df54d423ce80e01ec8fd251dadad1",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
