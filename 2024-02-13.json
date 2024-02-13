@@ -1,0 +1,26 @@
+{
+  "name": "Lillian Frazier",
+  "age": 65,
+  "address": {
+    "street": "Polin Turnpike",
+    "city": "Adasudi",
+    "state": "DC",
+    "zip": "73729"
+  },
+  "contact": {
+    "phone": "(445) 915-7887",
+    "servicePhone": "800965473"
+  },
+  "birthday": "1964-05-19T02:56:48.082Z",
+  "ip": "98.225.166.212",
+  "foo": "bar",
+  "profile": {
+    "about": "Vubut nobgahke mulhuhcu sivhod edaate jogpu egi jup imatid nieg pasbo es. Cocah dom tulzi lomi huvukagu cudzef op tezo eli mamwiddid ik rebif re anovusi gesmag. Acham ji guilaah pov bimsupte rubhev nac fu gek kunaf bu uc dakpug fod zufzeomi lugul zemun.",
+    "bio": "Ilukot sehih ha jonnil al so gooboku in pit nu utoluhav bepnog us pum wugin hejipitop vitguk herfemo. Kuca hu gifacuru vebmen wu veguzi wadjumrej pap ji va tojcol izso fedihi cef jol zaham. Vur niuja luhov kevcena rujo des utaegu dibri ud pucokzo zev cek acopaw kedusu cor fit."
+  },
+  "apiKey": "5d5f1f46e143adf40b3182b48a61bcf8de944d863fb9a47f5291c1bef5661094",
+  "currency": {
+    "code": "NOK",
+    "name": "Norway Krone"
+  }
+}
