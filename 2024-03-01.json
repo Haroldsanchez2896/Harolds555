@@ -1,0 +1,26 @@
+{
+  "name": "Bernard Padilla",
+  "age": 60,
+  "address": {
+    "street": "Lakug Pass",
+    "city": "Kunuhzen",
+    "state": "OH",
+    "zip": "13803"
+  },
+  "contact": {
+    "phone": "(641) 618-1872",
+    "servicePhone": "800255985"
+  },
+  "birthday": "1962-03-21T11:02:21.215Z",
+  "ip": "130.230.17.141",
+  "foo": "bar",
+  "profile": {
+    "about": "Mel tusvuwe dekabiw dupsus amokoh guamtur liswa wutiwu bor tuva gahpa barwazmog ga raut. Bu kiifo hijfo na iz run ikahe citrirpon pof zizfuf ujne dem. Babju ciwi degawpam cecewe uj mimsim no lil inaiv cehwamob ze bik didtiazi ka kewiz.",
+    "bio": "Nikli izo nijuke vugucwef ka koccenti cickocmo noaga kiebga jije tafocu navedvaz jot. Urake mukonu vewlon apanacli no udiwivek asi nec hi fair ofaonko mogeja hutfad sim. Binteum racumosi urpobfog pibziduk ge fu ivcom mes fig onamo finsub sate as nidocu."
+  },
+  "apiKey": "42c061ad1224e0cef1459da1eb317dbb43e7939c56164843f2f4f3f80e6fa8d3",
+  "currency": {
+    "code": "ISK",
+    "name": "Iceland Krona"
+  }
+}
