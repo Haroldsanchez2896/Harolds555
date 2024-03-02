@@ -1,0 +1,26 @@
+{
+  "name": "Tommy Butler",
+  "age": 65,
+  "address": {
+    "street": "Ogero Circle",
+    "city": "Basfica",
+    "state": "IA",
+    "zip": "68732"
+  },
+  "contact": {
+    "phone": "(960) 594-9838",
+    "servicePhone": "800198133"
+  },
+  "birthday": "1974-02-03T12:56:34.479Z",
+  "ip": "247.116.137.68",
+  "foo": "bar",
+  "profile": {
+    "about": "Nemo gagnaso odija ik batjah wofvoge ibde do kuumuku okwi je vap mevoh ka cucmed ubogac. Zegbew evhimhev mivofi cu dewnudew arvavo mafijzer oha wi icva hanfu ji baflu ditudguv golukol fapbaali cugdawlip. Wouvaze sapeb va velana gom hiraproh gibefac opopa voaja jow acicmov man bi fu howeb.",
+    "bio": "Ragri zina til junuude ze agulif ha fil nuaf hepe lanse jaruv rakma tozobok wano ukhofa runvif. Nu wowif wod puasdam aviven fel herfuhud pinape bob hu nugjahoce rom ufmezom wo awaarzid daoza zokejwa. Uvgeka fihmofbiv ifce anpo ged ci had wehid nesilez hudewe cehkeimi hur. Kajijti ep agidesse su sihfezosa cesi bogcoddu gijtag gikar cuhamso vo polomni si bisoci mabwojaz udaefi das."
+  },
+  "apiKey": "775ab97dd384376046bdea6da857da00221a9b8b4e69c13955de7f9652dd31a9",
+  "currency": {
+    "code": "CUP",
+    "name": "Cuba Peso"
+  }
+}
