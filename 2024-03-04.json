@@ -1,0 +1,26 @@
+{
+  "name": "Inez Jefferson",
+  "age": 41,
+  "address": {
+    "street": "Sajas Parkway",
+    "city": "Jedogju",
+    "state": "IA",
+    "zip": "90570"
+  },
+  "contact": {
+    "phone": "(230) 255-1945",
+    "servicePhone": "800168622"
+  },
+  "birthday": "1960-08-21T07:20:43.727Z",
+  "ip": "147.203.19.185",
+  "foo": "bar",
+  "profile": {
+    "about": "Tarrovis soltovdoc sehvufag juc niszu ven jaznul vewetoniv kim od go gumnembu widaszem. Nivi nicmo kazab bivub oti si nanavak weoli ohijetwa pe miwivno nubwan kelakzi obe bah cin sijacdod atikakdin. Googaho sa botci lolaso so favutore boc ceapa ema caza bi fo he hab rotwekut.",
+    "bio": "Sobu azohig amcadku lel favew akolih ze dafbud vuzcahwo atesukre vecab rural nouge bac wujra esrarlo mikcaib. Nemowom dehi kalmo rege ril semfunzok ror ok naet puh vo itpi utgagug isiho fe. Sikanobe mu sibih usebina owu astuvgak pa ohras fuew bezisiz honlaobe wogmugzo ezcic vohsapez bube amina. Ufi udi zuzieh di ihegu wepbavu tepbidur orcohak roz zonune uhbaj nezzo."
+  },
+  "apiKey": "23d07102cac14820b11241f1464380ead518aace4611ea01de3979930fae58ae",
+  "currency": {
+    "code": "BYR",
+    "name": "Belarus Ruble"
+  }
+}
