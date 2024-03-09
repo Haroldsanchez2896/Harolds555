@@ -1,0 +1,26 @@
+{
+  "name": "Della Mendoza",
+  "age": 18,
+  "address": {
+    "street": "Ektej Boulevard",
+    "city": "Cibetur",
+    "state": "LA",
+    "zip": "19451"
+  },
+  "contact": {
+    "phone": "(415) 940-5275",
+    "servicePhone": "800217566"
+  },
+  "birthday": "1975-12-25T17:49:14.783Z",
+  "ip": "145.157.40.39",
+  "foo": "bar",
+  "profile": {
+    "about": "Keeweku muun juuroit etkew usojoziv ne amheploh aziaz wa kiwi kitudih congumi zajluju. Up aseusifo vedbitij tuvioju mebid upoluus ju mamuvsa pelmuhac tewav evoogmag coikolo masujuva fizbekmul macegaraz vimvumsi duvoh ijmu. Pa juwrik egepo kuh cenren uhifike lesocil rukrid jafzeifu zet dupgaidi zoj bi di lev eda rav eraijjih.",
+    "bio": "Seb iscitra esinejlul jeg jiwnicta vez jotajoh uk iwpaw tajlaj jah kewsubec mi. Wosjofebu ge diherov dicuza ugusegaw cas giitu fuetezaz wopeja ju peme es tat tupigamup ozaduhab mol go. Jus da ofafap fehzulu badmagmur pekemewic gano evuni korvak nevhew jec la penpettu urjat woc. Zof rugmo we esgaren zektiof vus ho tig los podepa daj hucaor vi gag hodropzoz af."
+  },
+  "apiKey": "e738630951a20fba5e67224655ce7ed35759a7fe6c8c92ed97411b8c622f78e8",
+  "currency": {
+    "code": "IRR",
+    "name": "Iran Rial"
+  }
+}
