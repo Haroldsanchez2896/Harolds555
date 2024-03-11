@@ -1,0 +1,26 @@
+{
+  "name": "Lydia Roberson",
+  "age": 42,
+  "address": {
+    "street": "Kamjoz Highway",
+    "city": "Wozasiur",
+    "state": "SC",
+    "zip": "41785"
+  },
+  "contact": {
+    "phone": "(856) 464-1096",
+    "servicePhone": "800216473"
+  },
+  "birthday": "2002-08-13T20:36:04.637Z",
+  "ip": "166.223.148.142",
+  "foo": "bar",
+  "profile": {
+    "about": "Ersimbok unebiha ejo hav fotaim ilunukkeg az jofeftu fi okutas hageni po jij minub. Ice coekra uh koczezum gisiejo gav tuzos waugdu bartoge bizetac funuuw aniva ke gi uzeocohek cacsih godluj no. Peh iffa zom zis liguneku zis ticifi ujikiwob biz hen dagvuhrup basijcan pojiw faude aguvidi gow.",
+    "bio": "Mun miwepeka izu sefol du ereehizo nar is oguka wiatopo lesup uv. Rimco uvucaza cakjahedu uduwusuh kobofa zew gej josvec fiija sobgicaj ri seopewa zidokci curazhu zawupugo jus ri lu. Bonun wedahmoz zusom pepaljez nu gih asa vahbeano ugbagak di zejinu iwnu batu fezdoihe. Pobbilzet rirmew magvipot egazet sosilcev me upfon tijhenos uru kur azma paef ucifa win."
+  },
+  "apiKey": "2da79922d8694a63cc6818f8f1315ea24bddfe062731112ae4dfba7523d0cf59",
+  "currency": {
+    "code": "KRW",
+    "name": "Korea (South) Won"
+  }
+}
