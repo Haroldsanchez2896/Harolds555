@@ -1,0 +1,26 @@
+{
+  "name": "Chris Ortega",
+  "age": 53,
+  "address": {
+    "street": "Orenos Path",
+    "city": "Vektidad",
+    "state": "NY",
+    "zip": "14698"
+  },
+  "contact": {
+    "phone": "(717) 774-1847",
+    "servicePhone": "800546781"
+  },
+  "birthday": "2006-03-18T19:01:46.283Z",
+  "ip": "37.237.178.253",
+  "foo": "bar",
+  "profile": {
+    "about": "Cizekco okenitja sehure gon omejuvfi wecaf soif jijlu danusa es geravdab dutcew mifo. Namijuh hihamepu wocmoni le dil ufavob vez kegsut rud be eh edpasaso tihrad. Bo higfuvso etujuwi ra hatnofcif od sehkala ruvu bozjas zev ipuod fikpud hoj cekbawafi.",
+    "bio": "Isdo tocca rajika judfu vezuze cu opi ro sebnohlu un dojitje ewginbe az hunsuam wuzsuz. Jot ut pum paro baf daufi fathem ozagam jime gorem koamuug hocbimbaz uhla ferisgic can. Uni dag zuw ukifubec ukokili moz ur idu muledfi ba wobelueb ezeloz. Cujce cedute ji agwiwavi ji lerjidar zatnav tuj fep saghenus pij nihhima jizpe pegpub fojda zo aliuro rohiona."
+  },
+  "apiKey": "c409a74952d540123698fc73b4ad8913aa636665eb2f505991cea24cc996437b",
+  "currency": {
+    "code": "JPY",
+    "name": "Japan Yen"
+  }
+}
