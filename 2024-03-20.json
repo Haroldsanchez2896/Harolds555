@@ -1,0 +1,26 @@
+{
+  "name": "Mae Gonzalez",
+  "age": 37,
+  "address": {
+    "street": "Tisi Key",
+    "city": "Wiakhe",
+    "state": "KS",
+    "zip": "45325"
+  },
+  "contact": {
+    "phone": "(218) 551-3110",
+    "servicePhone": "800655685"
+  },
+  "birthday": "1975-04-29T06:32:21.985Z",
+  "ip": "225.186.47.209",
+  "foo": "bar",
+  "profile": {
+    "about": "Pi kiwibil gedushov efulawrun zew muho nogariko tirivni modcuh pi huzaj fobutegi fanaat wewo bo figbacgut apu. Pewufef haha atuguz atihifof lu rehci hon far pubkiw rokucug toblucgam mokja zujed darlace cedasoh. Vogzow mu edeakat webud rac wa enaif wi an tovaslus mawi ciweuwa vial wagsozli wute zo. Mu zag bewupu ceut me jibbo godobu ih opebalvud lakek da bi tofu ipse abecif.",
+    "bio": "Ev fenefo nufjite nidal semfas aveluev wi nog urirapic ujusa ma dekgohhi owhevi muh. Suf ebpugjiz kup ifbik kofibzaw leeka ro de gapha op gehonfu sajzuk cu pizom hucbirjil lace uhaje. Vazur obpuged nowriti magboh def lautobob bug lewerijoc uco wodjugave tirwemu nevcuda icta rih okaraige wivec sislugnum konzicoj. Unemiga vom muot koevore lirmi jihgec rahoru banu sa morpe acemed daosiedi nomo pocjoom so. Hafifa zu hih re rozaf siliwa itohacije forlub zo tuibi dezotah udifza."
+  },
+  "apiKey": "5a503ae2149171f785d6d88e8719cea47c3977dd124e024a0ac0ff678049aada",
+  "currency": {
+    "code": "NGN",
+    "name": "Nigeria Naira"
+  }
+}
