@@ -1,0 +1,26 @@
+{
+  "name": "Arthur Lucas",
+  "age": 64,
+  "address": {
+    "street": "Sucot Path",
+    "city": "Hokhupi",
+    "state": "ID",
+    "zip": "78103"
+  },
+  "contact": {
+    "phone": "(526) 921-7115",
+    "servicePhone": "800598444"
+  },
+  "birthday": "1964-05-21T20:00:48.921Z",
+  "ip": "109.234.57.229",
+  "foo": "bar",
+  "profile": {
+    "about": "Awukat hobuh cagbivu azoircul ze vu kula obepi vop ozoguk utu ivta. Voobu tagmome zigji ba cokpepod bojgo osgodabo mez ramwulutu wodizo femag isolo. Wemkanuwe wihupwu fad sumdin joapo wu iw bojbidet dokimeni kal ci jobuko vutoz.",
+    "bio": "Vubu pure zifovi sahihkot ipeju oj hupfujil wudsin cu dusa upsadwut of diac fov. Uheen motpa boare albi ji fa muse lahiwu ofefze vaage pija mu lakaz piki ije. Ragonjed keta bakkosro bit fedu upefihic id huma metcej tis po upu ba zihdeud goj bobwobo gohu. Ajelibil ofi tu bivehip ujourbor ab es gumcu voj ze gatcuhdu jo cezjak epafigev. Dadevi zovittib icacep ku ko hig zo nuwapgo manwegog ar gugcabo pepbipud icgoar puip dosuron ir. Pid si relo vijleoja cidit miz dut wi imo itvi mufne oj. Du wurvoezu hek rula poj wobagok fugivlu tise ak enniju zu ivzefov badvem ukolible waw."
+  },
+  "apiKey": "45ed224286555a92e0c6886c52df5df2acce11c194f01cbb5df9fd2b5a66b6e0",
+  "currency": {
+    "code": "SAR",
+    "name": "Saudi Arabia Riyal"
+  }
+}
