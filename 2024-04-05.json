@@ -1,0 +1,26 @@
+{
+  "name": "Josie Lynch",
+  "age": 38,
+  "address": {
+    "street": "Jowen Extension",
+    "city": "Ijiedwi",
+    "state": "OH",
+    "zip": "22977"
+  },
+  "contact": {
+    "phone": "(713) 962-9302",
+    "servicePhone": "800743376"
+  },
+  "birthday": "1964-05-06T16:43:00.128Z",
+  "ip": "221.198.4.112",
+  "foo": "bar",
+  "profile": {
+    "about": "Hitlerow luhi ezah lusmizuw ga humkumfo tugusgot id ar tewarodu notmakac ro repbuke. Vos mahba lare gugzun jo enna vu bunelovug epzap foj bu upofi tobuwepo bitre tit faf ponalo zazufjan. Pibeka tilhod re ir zeete lebbivtow vo afina motwa sujheku tahen hevido bapobe susle budbuhe irsakez zipopa.",
+    "bio": "Hum caas uvi zoha povirfil reja vortaso uwaitfa cevbu imtuja fohufe fo se ke jipa ap wapgosi barka. Ju voni opbe ew vumulak wal hupisrof ulewu ve im wajrog wo vurjozwa cerupwe giwbig su zewseb. Ku hot suctaj wice ef dac ruwjikal pubtanedu ponjeen lof gedbo in muileciz duh."
+  },
+  "apiKey": "5923107c07a1306427c5fc5a1bba726e37d154f6ae5c880a607678f5f53ed511",
+  "currency": {
+    "code": "KPW",
+    "name": "Korea (North) Won"
+  }
+}
